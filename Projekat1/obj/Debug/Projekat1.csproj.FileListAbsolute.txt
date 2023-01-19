@@ -1,0 +1,117 @@
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\bin\Debug\Projekat1.exe.config
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\bin\Debug\Projekat1.exe
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\bin\Debug\Projekat1.pdb
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\obj\Debug\Projekat1.csproj.AssemblyReference.cache
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\obj\Debug\MainWindow.g.cs
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\obj\Debug\App.g.cs
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\obj\Debug\Projekat1_MarkupCompile.cache
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\obj\Debug\Projekat1_MarkupCompile.lref
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\obj\Debug\MainWindow.baml
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\obj\Debug\Projekat1.g.resources
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\obj\Debug\Projekat1.Properties.Resources.resources
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\obj\Debug\Projekat1.csproj.GenerateResource.cache
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\obj\Debug\Projekat1.csproj.CoreCompileInputs.cache
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\obj\Debug\Projekat1.exe
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\obj\Debug\Projekat1.pdb
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\obj\Debug\EllipseWindow.g.cs
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\obj\Debug\PolygonWindow.g.cs
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\obj\Debug\EllipseWindow.baml
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\obj\Debug\PolygonWindow.baml
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\obj\Debug\Projekat1.csproj.CopyComplete
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\obj\Debug\TextWindow.g.cs
+D:\Antonina\Documents\Fakultet\IV godina\Letnji\Grafika\Projekat1\Projekat1\obj\Debug\TextWindow.baml
+D:\Yamato\Desktop\Projekat1\Projekat1\bin\Debug\Projekat1.exe.config
+D:\Yamato\Desktop\Projekat1\Projekat1\bin\Debug\Projekat1.exe
+D:\Yamato\Desktop\Projekat1\Projekat1\bin\Debug\Projekat1.pdb
+D:\Yamato\Desktop\Projekat1\Projekat1\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Yamato\Desktop\Projekat1\Projekat1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Yamato\Desktop\Projekat1\Projekat1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Yamato\Desktop\Projekat1\Projekat1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Yamato\Desktop\Projekat1\Projekat1\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Yamato\Desktop\Projekat1\Projekat1\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\Yamato\Desktop\Projekat1\Projekat1\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Yamato\Desktop\Projekat1\Projekat1\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Yamato\Desktop\Projekat1\Projekat1\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Yamato\Desktop\Projekat1\Projekat1\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Yamato\Desktop\Projekat1\Projekat1\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Yamato\Desktop\Projekat1\Projekat1\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\Yamato\Desktop\Projekat1\Projekat1\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Yamato\Desktop\Projekat1\Projekat1\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Yamato\Desktop\Projekat1\Projekat1\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Yamato\Desktop\Projekat1\Projekat1\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Yamato\Desktop\Projekat1\Projekat1\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Yamato\Desktop\Projekat1\Projekat1\obj\Debug\Projekat1.csproj.AssemblyReference.cache
+D:\Yamato\Desktop\Projekat1\Projekat1\obj\Debug\EllipseWindow.g.cs
+D:\Yamato\Desktop\Projekat1\Projekat1\obj\Debug\MainWindow.g.cs
+D:\Yamato\Desktop\Projekat1\Projekat1\obj\Debug\PolygonWindow.g.cs
+D:\Yamato\Desktop\Projekat1\Projekat1\obj\Debug\TextWindow.g.cs
+D:\Yamato\Desktop\Projekat1\Projekat1\obj\Debug\App.g.cs
+D:\Yamato\Desktop\Projekat1\Projekat1\obj\Debug\Projekat1_MarkupCompile.cache
+D:\Yamato\Desktop\Projekat1\Projekat1\obj\Debug\Projekat1_MarkupCompile.lref
+D:\Yamato\Desktop\Projekat1\Projekat1\obj\Debug\EllipseWindow.baml
+D:\Yamato\Desktop\Projekat1\Projekat1\obj\Debug\MainWindow.baml
+D:\Yamato\Desktop\Projekat1\Projekat1\obj\Debug\PolygonWindow.baml
+D:\Yamato\Desktop\Projekat1\Projekat1\obj\Debug\TextWindow.baml
+D:\Yamato\Desktop\Projekat1\Projekat1\obj\Debug\Projekat1.g.resources
+D:\Yamato\Desktop\Projekat1\Projekat1\obj\Debug\Projekat1.Properties.Resources.resources
+D:\Yamato\Desktop\Projekat1\Projekat1\obj\Debug\Projekat1.csproj.GenerateResource.cache
+D:\Yamato\Desktop\Projekat1\Projekat1\obj\Debug\Projekat1.csproj.CoreCompileInputs.cache
+D:\Yamato\Desktop\Projekat1\Projekat1\obj\Debug\Projekat1.csproj.CopyComplete
+D:\Yamato\Desktop\Projekat1\Projekat1\obj\Debug\Projekat1.exe
+D:\Yamato\Desktop\Projekat1\Projekat1\obj\Debug\Projekat1.pdb
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\bin\Debug\Projekat1.exe.config
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\bin\Debug\Projekat1.exe
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\bin\Debug\Projekat1.pdb
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\obj\Debug\Projekat1.csproj.AssemblyReference.cache
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\obj\Debug\EllipseWindow.g.cs
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\obj\Debug\MainWindow.g.cs
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\obj\Debug\PolygonWindow.g.cs
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\obj\Debug\TextWindow.g.cs
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\obj\Debug\App.g.cs
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\obj\Debug\Projekat1_MarkupCompile.cache
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\obj\Debug\Projekat1_MarkupCompile.lref
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\obj\Debug\EllipseWindow.baml
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\obj\Debug\MainWindow.baml
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\obj\Debug\PolygonWindow.baml
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\obj\Debug\TextWindow.baml
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\obj\Debug\Projekat1.g.resources
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\obj\Debug\Projekat1.Properties.Resources.resources
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\obj\Debug\Projekat1.csproj.GenerateResource.cache
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\obj\Debug\Projekat1.csproj.CoreCompileInputs.cache
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\obj\Debug\Projekat1.csproj.CopyComplete
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\obj\Debug\Projekat1.exe
+D:\Yamato\Documents\Literatura, faks\Fakultet\IV godina\Projekat1\Projekat1\obj\Debug\Projekat1.pdb
